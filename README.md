@@ -22,11 +22,11 @@ $ pkg install git
 
 $ pkg install python
 
-$ git clone https://github.com/H0Xcysecom/URLcatShortener.git
+$ git clone https://github.com/DizzStore/shortlinkdiz.git
 
-$ cd URLcatShortener
+$ cd shortlinkdiz
 
 $ ls
 
-$ python URLcatShortener.py
+$ python shortlinkdiz.py
 
